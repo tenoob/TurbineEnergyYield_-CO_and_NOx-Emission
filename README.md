@@ -8,3 +8,5 @@ The dataset contains 36733 instances of 11 sensor measures aggregated over one h
 - Coding_files
   - dataCollectionAndOrganization
   - splitXY
+  - EDA
+    - EDA Report.html
