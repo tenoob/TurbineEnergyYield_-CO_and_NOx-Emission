@@ -12,3 +12,5 @@ The dataset contains 36733 instances of 11 sensor measures aggregated over one h
     - EDA Report.html
   - Standardization
     - scaler.pkl
+  - Clustering
+    - cluster.pkl
